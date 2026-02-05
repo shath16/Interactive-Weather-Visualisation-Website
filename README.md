@@ -89,9 +89,6 @@ The project follows WCAG accessibility principles, including:
 ├── images/
 │   └── (all image files)
 │
-├── report/
-│   └── technical_report.pdf
-│
 ├── README.md
 
 ```
