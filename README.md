@@ -92,13 +92,6 @@ The project follows WCAG accessibility principles, including:
 ├── README.md
 
 ```
-
----
-
-## Purpose
-
-This project was created as part of a Web Technologies module to demonstrate interactive data visualisation alongside full-stack web development skills.
-
 ---
 
 ## Usage
